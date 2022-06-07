@@ -14,6 +14,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.fitnesstracker.ImcActivity;
+import com.fitnesstracker.MainItem;
+import com.fitnesstracker.OnItemClickListener;
+import com.fitnesstracker.TmbActivity;
+import com.fitnesstracker.R;
+
+
 import java.util.ArrayList;
 import java.util.List;
 

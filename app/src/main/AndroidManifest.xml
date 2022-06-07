@@ -10,16 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ListCalcActivity">
+            android:name="com.fitnesstracker.ListCalcActivity">
             <meta-data android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity"
             android:exported="false" />
         </activity>
         <activity
-            android:name=".TmbActivity"
+            android:name="com.fitnesstracker.TmbActivity"
             android:exported="false" />
         <activity
-            android:name=".ImcActivity"
+            android:name="com.fitnesstracker.ImcActivity"
             android:exported="false" />
         <activity android:name=".MainActivity"
             android:exported="true">

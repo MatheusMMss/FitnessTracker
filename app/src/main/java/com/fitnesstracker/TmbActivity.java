@@ -16,6 +16,8 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+import com.fitnesstracker.R;
+
 public class TmbActivity extends AppCompatActivity {
 
     private EditText editHeight;

@@ -18,6 +18,14 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.fitnesstracker.ImcActivity;
+import com.fitnesstracker.OnAdapterItemClickListener;
+import com.fitnesstracker.R;
+import com.fitnesstracker.Register;
+import com.fitnesstracker.SqlHelper;
+import com.fitnesstracker.TmbActivity;
+import com.fitnesstracker.R;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
